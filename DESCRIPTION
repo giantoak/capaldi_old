@@ -1,0 +1,13 @@
+Package: Capaldi
+Type: Package
+Title: An Expert System for Naively Analyzing Time Series Data
+Version: 0.1
+Date: 2016-01-27
+Author: Peter Landwehr
+Maintainer: Peter M. Landwehr <peter.landwehr@giantoak.com>
+Description: Capaldi wraps several different time series algorithms and packages in plain language.
+It is aimed at analysts who are unsure of what algorithm to use when examining time series algorithm, and
+who are searching for a straightforward recommendation and an explanation of why a particular fit is or
+isn't correct.
+License: What license is it under?
+LazyData: TRUE
